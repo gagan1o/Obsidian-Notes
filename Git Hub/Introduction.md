@@ -1,0 +1,4 @@
+- Git is a version control system(VCS)
+- For a System admin, it is a good principle to always take a backup before making a change
+- if we doing lot of changes in a day or everyday we can use *timestap* for [[versioning]].  
+-  
